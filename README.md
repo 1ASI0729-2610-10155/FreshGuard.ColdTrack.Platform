@@ -29,7 +29,7 @@ The codebase follows Domain-Driven Design and CQRS-oriented conventions from the
 
 ## Local Configuration
 
-Copy the values from `.env.example` into environment variables. The development defaults expect MySQL on `localhost:3306` with user `root`, password `password`, and database `coldtrack_platform`.
+Copy the values from `.env.example` into environment variables. The development defaults expect MySQL on `localhost:3306` with user `root`, password `password`, and database `freshguard_coldtrack`.
 
 ```powershell
 $env:JAVA_HOME='C:\Program Files\Eclipse Adoptium\jdk-26.0.1.8-hotspot'
