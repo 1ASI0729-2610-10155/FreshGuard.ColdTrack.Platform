@@ -4,6 +4,7 @@ FreshGuard ColdTrack Platform is the internal RESTful backend for ColdTrack, a c
 
 ## Author
 
+
 Developed by the HackRats team for FreshGuard Technologies.
 
 ## Technology Stack
